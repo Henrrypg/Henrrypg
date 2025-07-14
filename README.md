@@ -1,13 +1,12 @@
+
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrrypg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=henrrypg&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F702A0&center=true&width=435&lines=DevOps%2FInfra+Engineer" alt="Typing SVG" /></a>
+  </div>
+<div align="center">
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blond-tau.vercel.app?user=henrrypg&theme=dracula&mode=weekly" alt="GitHub Streak" /></a>
 </div>
-
-###
-
-<h2 align="left">Hi 👋! My name is Henrry and I'm a Software Engineer, from Colombia.</h2>
 
 ###
 
@@ -36,17 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/henrrypg/henrrypg/output/snake.svg" alt="Snake animation" />
 
 ###
